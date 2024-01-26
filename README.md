@@ -1,6 +1,6 @@
 # 👋Hello guys! Welcome to my github profile
-## My name is Lucas and my nickname is "Lucasts"
-##pronoun: He/him/his
+My name is Lucas and my nickname is "Lucasts"
+Pronoun: He/him/his
 
 ## 🔨Tools and Technologies
 
@@ -27,12 +27,14 @@
 <div>
 <a href="https://github.com/LucasSst">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasSst&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasSst&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 
 
 ## ☕Thank you for reading this far and a good coffee to you! 
-<img loading="lazy" src="https://c.tenor.com/JnlrCRKSbOwAAAAd/tenor.gif" width="40" height="40">
+<img loading="lazy" src="https://c.tenor.com/JnlrCRKSbOwAAAAd/tenor.gif" width="64" height="48">
 
 
+<!--
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasSst&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+-->
