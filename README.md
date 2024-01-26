@@ -19,13 +19,15 @@
 <a href="https://www.linkedin.com/in/lucastsilva-dev/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
+
 <div>
 <a href="https://github.com/LucasSst">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasSst&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasSst&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
+
 ## ☕Thank you for reading this far and a good coffee to you! 
-<img loading="lazy" src="https://media1.tenor.com/m/JnlrCRKSbOwAAAAd/city-hunter-cofee.gif">
+<img loading="lazy" src="https://c.tenor.com/JnlrCRKSbOwAAAAd/tenor.gif">
 
 
