@@ -1,6 +1,15 @@
 # 👋Hello guys! Welcome to my github profile
+<div>
 My name is Lucas and my nickname is "Lucasts"
-Pronoun: He/him/his
+
+</div>
+
+<div>
+Pronoun: He/Him
+</div>
+
+## 😊About me
+I'm an aspiring programmer looking for knowledge and I love challenges!
 
 ## 🔨Tools and Technologies
 
@@ -23,7 +32,7 @@ Pronoun: He/him/his
 </div>
 
 
-
+## 💻 Most Used Languages
 <div>
 <a href="https://github.com/LucasSst">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasSst&layout=compact&langs_count=7&theme=dracula"/>
