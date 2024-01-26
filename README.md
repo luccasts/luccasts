@@ -32,7 +32,7 @@ Pronoun: He/him/his
 
 
 ## ☕Thank you for reading this far and a good coffee to you! 
-<img loading="lazy" src="https://c.tenor.com/JnlrCRKSbOwAAAAd/tenor.gif" width="64" height="48">
+![peach-goma-peach-and-goma](https://github.com/LucasSst/LucasSst/assets/89666547/03e8b3df-74b5-4d6c-9c86-6db389bc57d1)
 
 
 <!--
