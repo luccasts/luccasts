@@ -1,7 +1,8 @@
 # 👋Hello guys! Welcome to my github profile
 ## My name is Lucas and my nickname is "Lucasts"
+##pronoun: He/him/his
 
-## 🔨Ferramentas e Tecnologias / Tools and Technologies
+## 🔨Tools and Technologies
 
 <div>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" />
@@ -13,11 +14,14 @@
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="40" height="40"/>
 </div>
 
+
+
 ## 📞Contacts
 <div>
 <a href = "lucastsilvadev@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/lucastsilva-dev/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
+
 
 
 <div>
@@ -27,7 +31,8 @@
 </div>
 
 
+
 ## ☕Thank you for reading this far and a good coffee to you! 
-<img loading="lazy" src="https://c.tenor.com/JnlrCRKSbOwAAAAd/tenor.gif">
+<img loading="lazy" src="https://c.tenor.com/JnlrCRKSbOwAAAAd/tenor.gif" width="40" height="40">
 
 
