@@ -1,4 +1,3 @@
-### Hi there 
 # 👋Olá galera! Sejam bem vindos ao meu perfil do github
 ## Meu nome é Lucas e meu apelido é "Lucasts"
 
@@ -25,8 +24,8 @@
 
 <div>
 <a href="https://github.com/LucasSst">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasSst&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasSst&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 ## ☕Obrigado por ler até aqui e tenha um bom café! / ☕Thank you for reading this far and a good coffee to you! 
