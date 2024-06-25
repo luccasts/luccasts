@@ -1,6 +1,6 @@
 # 👋Hello guys! Welcome to my github profile
 <div>
-My name is Lucas and my nickname is "Lucasts"
+My name is Lucas and my nickname is "Luccasts"
 
 </div>
 
@@ -35,13 +35,13 @@ I'm an aspiring programmer looking for knowledge and I love challenges!
 ## 💻 Most Used Languages
 <div>
 <a href="https://github.com/LucasSst">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasSst&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luccasts&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 
 
 ## ☕Thank you for reading this far and a good coffee to you! 
-![peach-goma-peach-and-goma](https://github.com/LucasSst/LucasSst/assets/89666547/03e8b3df-74b5-4d6c-9c86-6db389bc57d1)
+![peach-goma-peach-and-goma](https://github.com/luccasts/luccasts/assets/89666547/03e8b3df-74b5-4d6c-9c86-6db389bc57d1)
 
 
 <!--
