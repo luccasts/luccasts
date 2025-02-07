@@ -1,3 +1,4 @@
+![Visitor Count](https://komarev.com/ghpvc/?username=luccasts&color=blue)
 # 👋Hello guys! Welcome to my github profile
 <div>
 My name is Lucas and my nickname is "Luccasts"
