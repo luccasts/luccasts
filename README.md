@@ -54,7 +54,7 @@ Here are some of the projects I'm proud of:
   user's choice, between the main page, specific anime information, the anime episode and finally the search page.[NextJS,TypeScript,SCSS]
 
 - **[Decodificador ONE](link)**: An encryption and decryption project, with two options for the user, being able to encrypt or decrypt the
-  message. [Javascript].
+  message. [JavaScript].
 
 ---
 
